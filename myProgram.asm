@@ -1,3 +1,4 @@
+; Casey Waltrup CMSC313 Section 5 M/W 2:30 - 3:45
 ; Hello World Program - asmtutor.com
 ; Compile with: nasm -f elf helloworld.asm
 ; Link with (64 bit systems require elf_i386 option): ld -m elf_i386 helloworld.o -o helloworld
